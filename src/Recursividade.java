@@ -1,6 +1,6 @@
 public class Recursividade {
     public static void main(String[] args) {
-        int valueObject[] = {25, 57, 48, 12, 92, 86, 33};
+        int valueObject[] = {25, 57, 48, 12, 92, 86, 33, 2324, 454545, 4542323};
 
         System.out.println(factorial(3));
         System.out.println(expoent(4, 2));
